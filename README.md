@@ -1,5 +1,4 @@
 # ExImageViewer
---------------
 - Navigation
 - Fragments
 - ViewPager
